@@ -1,2 +1,2 @@
 # task-program
-this program was ccreated to hold daily task
+this program was created to hold daily task
